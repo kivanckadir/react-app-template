@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "module": "ESNext",
+    "target": "ES5",
+    "esModuleInterop": true,
+    "noImplicitAny": true
+  },
+  "include": ["./src"]
+}
